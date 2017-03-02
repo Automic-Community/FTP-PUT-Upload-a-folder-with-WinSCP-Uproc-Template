@@ -9,7 +9,7 @@ http://github.com/Automic-Community/FTP-PUT-Upload-a-folder-with-WinSCP-Uproc-Te
 Contents of Solution Package:
 
 						
-								*Dollar_Universe-template_ftp_folder_transfer_with_winscp.zip
+								*TEMPLATE_FTP_TRANSFER_WITH_WINSCP.zip
 								
 								*119-image1.jpg
 								
@@ -113,7 +113,7 @@ Copyright and License
 ---
 
 Solutions, Templates, Actions and other content available on the Automic Marketplace subject to the Automic [Developers Distribution License] (https://marketplace.automic.com/developers-distribution-license) as well as the Automic Community [Terms of Service] (https://marketplace.automic.com/community-terms-of-service).
-Automic does not support, maintain or warrant any content submitted by the Automic Community.
+Automic does not support, maintain or warrant any content submitted by the Automic-Community.
 
 
 
